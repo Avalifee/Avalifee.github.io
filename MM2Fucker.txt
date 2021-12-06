@@ -331,7 +331,7 @@ JustLOL2.Position = UDim2.new(0.113543093, 0, 0.318257958, 0)
 JustLOL2.Rotation = 2
 JustLOL2.Size = UDim2.new(0, 64, 0, 51)
 JustLOL2.Font = Enum.Font.SourceSans
-JustLOL2.Text = "¯\\_(?)_/¯"
+JustLOL2.Text = "Â¯\\_(?)_/Â¯"
 JustLOL2.TextColor3 = Color3.new(0, 1, 0)
 JustLOL2.TextSize = 30
 
